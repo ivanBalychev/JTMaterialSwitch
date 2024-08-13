@@ -91,8 +91,8 @@
       break;
       
     case JTMaterialSwitchSizeSmall:
-      frame = CGRectMake(0, 0, 30, 25);
-      self.trackThickness = 13.0;
+      frame = CGRectMake(0, 0, 36, 25);
+      self.trackThickness = 6.0;
       self.thumbSize = 18.0;
       break;
       
